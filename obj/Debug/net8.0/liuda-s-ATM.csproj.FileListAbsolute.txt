@@ -1,0 +1,14 @@
+/Users/lucy/Documents/liuda-s-ATM/bin/Debug/net8.0/liuda-s-ATM
+/Users/lucy/Documents/liuda-s-ATM/bin/Debug/net8.0/liuda-s-ATM.deps.json
+/Users/lucy/Documents/liuda-s-ATM/bin/Debug/net8.0/liuda-s-ATM.runtimeconfig.json
+/Users/lucy/Documents/liuda-s-ATM/bin/Debug/net8.0/liuda-s-ATM.dll
+/Users/lucy/Documents/liuda-s-ATM/bin/Debug/net8.0/liuda-s-ATM.pdb
+/Users/lucy/Documents/liuda-s-ATM/obj/Debug/net8.0/liuda-s-ATM.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucy/Documents/liuda-s-ATM/obj/Debug/net8.0/liuda-s-ATM.AssemblyInfoInputs.cache
+/Users/lucy/Documents/liuda-s-ATM/obj/Debug/net8.0/liuda-s-ATM.AssemblyInfo.cs
+/Users/lucy/Documents/liuda-s-ATM/obj/Debug/net8.0/liuda-s-ATM.csproj.CoreCompileInputs.cache
+/Users/lucy/Documents/liuda-s-ATM/obj/Debug/net8.0/liuda-s-ATM.dll
+/Users/lucy/Documents/liuda-s-ATM/obj/Debug/net8.0/refint/liuda-s-ATM.dll
+/Users/lucy/Documents/liuda-s-ATM/obj/Debug/net8.0/liuda-s-ATM.pdb
+/Users/lucy/Documents/liuda-s-ATM/obj/Debug/net8.0/liuda-s-ATM.genruntimeconfig.cache
+/Users/lucy/Documents/liuda-s-ATM/obj/Debug/net8.0/ref/liuda-s-ATM.dll
