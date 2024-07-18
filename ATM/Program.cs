@@ -100,7 +100,9 @@ void SignIn()
     while (!validNickname)
     {
         Console.WriteLine("Please, enter your nickname");
+        
         var userNickname = Console.ReadLine();
+        
         if (userAccounts.ContainsKey(userNickname))
         {
             Console.WriteLine("Your account already exists");
@@ -112,6 +114,7 @@ void SignIn()
 
             userAccounts.Add(userNickname, (userPassword, 0));
             Console.WriteLine("Thank you for your registration!");
+            validNickname = true;
         }
     }
 }
